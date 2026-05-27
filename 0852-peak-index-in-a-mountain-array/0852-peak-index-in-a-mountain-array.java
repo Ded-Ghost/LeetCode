@@ -13,7 +13,7 @@ class Solution {
             end=mid-1;
            }
            else{ //lies in right
-            start=start+1;
+            start=mid+1;
            }
         }
         return -1;
