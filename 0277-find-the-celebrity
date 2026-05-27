@@ -1,0 +1,46 @@
+import java.util.*;
+public class Celebrity{
+    public static int Celebrity(int[][] arr){
+        int n=arr.length;
+        Stack <Integer> s = new Stack<>();
+        int i,j;
+
+        //pushing elements in stack
+        for(i=0;i<n;i++){
+            s.push(i);
+        }
+        //eliminating non candidates
+        while(s.size()>1){
+            i = s.pop();
+            j = s.pop();
+
+            if(arr[i][j]==0){
+                s.push(i);
+            }
+            else{
+                s.push(j);
+            }
+        }
+        int celeb=s.peek();
+        //final checking the last element
+        for(i=0;i<n;i++){
+
+            if(celeb!=i && arr[i][celeb]==0||arr[celeb][i]==1){
+                return -1;
+            }
+        }
+        return celeb;
+    }
+
+    public static void main(String[] args){
+        int[][] arr = {
+        {0,1,1},
+        {0,1,1},
+        {0,0,0}
+        };
+
+        int celeb = Celebrity(arr);
+
+        System.out.println(celeb);
+    }
+}
