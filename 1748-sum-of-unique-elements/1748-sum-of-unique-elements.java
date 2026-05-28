@@ -1,26 +1,17 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        int sum=0;
+    HashMap <Integer,Integer> map = new HashMap<>();
+    int sum=0;
 
-        for(int i=0;i<nums.length;i++){
-            arr.add(nums[i]);
-        }
-        for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i]==nums[j]){
-                    arr.remove(Integer.valueOf(nums[i]));
-
-                if(arr.contains(nums[j])){
-                    arr.remove(Integer.valueOf(nums[i]));
-               
-                 }
-               }
-            }
-        }
-        for(int i=0;i<arr.size();i++){
-            sum+=arr.get(i);
-        }
-        return sum;
+    for(int i=0;i<nums.length;i++){
+        map.put(nums[i], map.getOrDefault(nums[i],0)+1);
     }
+
+    for(int key : map.keySet()){
+        if(map.get(key)==1){
+            sum += key;
+        }
+    }
+    return sum;
+}
 }
