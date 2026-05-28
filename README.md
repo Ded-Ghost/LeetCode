@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
