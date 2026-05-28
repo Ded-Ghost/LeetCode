@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
