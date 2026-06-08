@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ded-Ghost/LeetCode/tree/master/0066-plus-one) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
