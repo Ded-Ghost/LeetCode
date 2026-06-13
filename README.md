@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ded-Ghost/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ded-Ghost/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/Ded-Ghost/LeetCode/tree/master/3866-first-unique-even-element) |
