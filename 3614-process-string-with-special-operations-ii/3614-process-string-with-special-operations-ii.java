@@ -1,51 +1,71 @@
 class Solution {
     public char processStr(String s, long k) {
-        
+
         long len = 0;
-        
-        //O(n) time complexity
 
-        //Forward Pass - for getting the length of the resultant string
-        for(char ch : s.toCharArray()){
+        // Forward Pass:
+        // Calculate the final length without actually building the string.
+        for (char ch : s.toCharArray()) {
 
-            if(ch>='a' && ch<='z'){
+            if (ch >= 'a' && ch <= 'z') {
                 len++;
             }
-            else if(ch == '*'){
-                if(len>0){
+            else if (ch == '*') {
+                if (len > 0) {
                     len--;
                 }
             }
-            //Doubles the length
-            else if(ch == '#'){
-                len = len*2;
+            // Duplicate the current string.
+            else if (ch == '#') {
+                len *= 2;
             }
-        //% - reverse has the same length
+            // '%' only reverses the string, length remains unchanged.
         }
 
-        if(k>=len){
+        // k is outside the final string.
+        if (k >= len) {
             return '.';
         }
 
-        //BackWard Pass - To get the character at kth index
-        for(int i=s.length()-1;i>=0;i--){
-           char ch = s.charAt(i);
+        // Backward Pass:
+        // Trace the k-th character back through the operations.
+        for (int i = s.length() - 1; i >= 0; i--) {
 
-            if(ch == '*'){
+            char ch = s.charAt(i);
+
+            // Undo deletion.
+            if (ch == '*') {
                 len++;
             }
-            else if(ch == '#'){
-                len = len/2;
-                if(k>=len){
-                    k=k-len;
+
+            // Undo duplication.
+            else if (ch == '#') {
+
+                len /= 2;
+
+                // If k lies in the duplicated half,
+                // map it back to the corresponding index
+                // in the original half.
+                if (k >= len) {
+                    k -= len;
                 }
             }
-            else if(ch == '%'){
-                k = len-k-1;
+
+            // Undo reverse.
+            else if (ch == '%') {
+
+                // Index mapping after reverse:
+                // k -> len - 1 - k
+                k = len - k - 1;
             }
-            else{
+
+            else {
+
+                // Current character was appended
+                // at index (len - 1).
                 len--;
-                if(len==k){
+
+                if (len == k) {
                     return ch;
                 }
             }
