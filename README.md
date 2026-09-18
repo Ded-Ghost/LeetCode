@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ded-Ghost/LeetCode/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Ded-Ghost/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ded-Ghost/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Ded-Ghost/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
