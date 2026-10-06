@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ded-Ghost/LeetCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ded-Ghost/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ded-Ghost/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ded-Ghost/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ded-Ghost/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ded-Ghost/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
