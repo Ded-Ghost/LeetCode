@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ded-Ghost/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ded-Ghost/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ded-Ghost/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ded-Ghost/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ded-Ghost/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ded-Ghost/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ded-Ghost/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ded-Ghost/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Ded-Ghost/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
