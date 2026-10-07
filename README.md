@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ded-Ghost/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ded-Ghost/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ded-Ghost/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ded-Ghost/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ded-Ghost/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
