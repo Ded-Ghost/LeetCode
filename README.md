@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ded-Ghost/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Ded-Ghost/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ded-Ghost/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ded-Ghost/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ded-Ghost/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ded-Ghost/LeetCode/tree/master/0876-middle-of-the-linked-list) |
