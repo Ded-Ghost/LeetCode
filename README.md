@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ded-Ghost/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ded-Ghost/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ded-Ghost/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ded-Ghost/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ded-Ghost/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ded-Ghost/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Ded-Ghost/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
