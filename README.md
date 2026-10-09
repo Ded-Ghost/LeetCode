@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ded-Ghost/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ded-Ghost/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ded-Ghost/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ded-Ghost/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ded-Ghost/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Ded-Ghost/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ded-Ghost/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ded-Ghost/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Ded-Ghost/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ded-Ghost/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
