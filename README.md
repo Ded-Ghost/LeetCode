@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ded-Ghost/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ded-Ghost/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ded-Ghost/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ded-Ghost/LeetCode/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ded-Ghost/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
