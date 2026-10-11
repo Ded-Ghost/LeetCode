@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Ded-Ghost/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Ded-Ghost/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
