@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ded-Ghost/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Ded-Ghost/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Ded-Ghost/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ded-Ghost/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ded-Ghost/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ded-Ghost/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Ded-Ghost/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ded-Ghost/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Ded-Ghost/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Ded-Ghost/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ded-Ghost/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
