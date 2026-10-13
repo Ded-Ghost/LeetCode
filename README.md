@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Ded-Ghost/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ded-Ghost/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ded-Ghost/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ded-Ghost/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Ded-Ghost/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ded-Ghost/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ded-Ghost/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ded-Ghost/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ded-Ghost/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ded-Ghost/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ded-Ghost/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
